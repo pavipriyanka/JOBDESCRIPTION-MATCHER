@@ -1,0 +1,33 @@
+ARJUN MEHTA
+arjun.mehta@example.com | +91 98765 43210 | github.com/arjun-ai | Chennai
+
+SUMMARY
+Final-year B.Tech CSE student building LLM and RAG applications in Python.
+
+SKILLS
+Languages: Python, SQL, Java
+AI/ML: Machine Learning, NLP, LLMs, RAG, Prompt Engineering
+Libraries: LangChain, Hugging Face Transformers, PyTorch, scikit-learn, Pandas, NumPy
+Tools: FastAPI, FAISS, Git, GitHub, Docker, Streamlit, Linux
+Fundamentals: Data Structures, Algorithms, OOP, DBMS
+
+PROJECTS
+PDF Q&A Chatbot (RAG)
+- Built a multi-PDF question answering chatbot using LangChain, FAISS and Gemini with page-level citations
+- Implemented hybrid retrieval combining BM25 and vector search with Reciprocal Rank Fusion
+- Exposed the pipeline as a REST API with FastAPI and wrote 15 unit tests with pytest
+Customer Support Ticket Classifier
+- Fine-tuned a DistilBERT model with Hugging Face on 20,000 support tickets, reaching 91% accuracy
+- Evaluated with precision, recall and F1 and deployed the model in a Docker container
+
+INTERNSHIP
+AI Intern, DataSpark Analytics (May 2025 - Jul 2025)
+- Wrote SQL queries and Python scripts to clean 2 million rows of sales data
+- Built prompt templates for an internal LLM assistant, cutting manual report time by 40%
+
+EDUCATION
+B.Tech Computer Science, Anna University, 2022 - 2026, CGPA 8.4
+
+ACHIEVEMENTS
+- Solved 350+ problems on LeetCode
+- Finalist, Smart India Hackathon 2024

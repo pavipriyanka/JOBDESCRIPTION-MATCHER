@@ -1,0 +1,28 @@
+Associate AI Engineer (Freshers, 2025/2026 batch)
+
+About Us:
+NovaMind Labs builds AI assistants for customer-support teams. We are a 60-person startup based in Bengaluru.
+
+What you'll do:
+- Build and improve LLM-powered features such as RAG-based question answering over company documents
+- Write clean, tested Python code and REST APIs using FastAPI
+- Experiment with prompt engineering and evaluate model outputs with clear metrics
+- Work with vector databases to index and search document embeddings
+- Collaborate with product and engineering teams to ship features to customers
+
+Requirements:
+- Strong programming skills in Python
+- Understanding of machine learning and NLP fundamentals
+- Hands-on project experience with LLMs, LangChain or Hugging Face
+- Good knowledge of SQL and Git
+- Solid grasp of data structures and algorithms
+- Good communication and problem-solving skills
+
+Nice to have:
+- Experience with Docker and deploying models on AWS or GCP
+- Familiarity with PyTorch and fine-tuning
+- Contributions to open-source projects
+
+Benefits:
+- Health insurance and a learning budget
+- Hybrid work, 3 days in office

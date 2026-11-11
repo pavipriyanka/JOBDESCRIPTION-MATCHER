@@ -1,0 +1,23 @@
+MEERA NAIR
+meera.nair@example.com | +91 91234 56789 | Kochi
+
+OBJECTIVE
+Aspiring data analyst passionate about turning data into insights.
+
+TECHNICAL SKILLS
+Python, Pandas, NumPy, Matplotlib, SQL, MySQL, Excel, Power BI, scikit-learn, Git
+
+PROJECTS
+Sales Dashboard
+- Created a Power BI dashboard tracking monthly sales across 12 regions for a retail dataset
+- Cleaned and transformed raw CSV data with Pandas before loading it into MySQL
+House Price Prediction
+- Trained linear regression and random forest models with scikit-learn on 5,000 listings
+- Compared models using RMSE and R2 score and visualised results with Matplotlib
+
+EDUCATION
+B.Sc Computer Science, Kerala University, 2023 - 2026, CGPA 8.1
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate
+- NPTEL Python for Data Science
